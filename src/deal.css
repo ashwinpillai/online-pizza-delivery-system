@@ -1,0 +1,119 @@
+body{
+	background-image: url("images8.jpg");
+	backgound-repeat:no-repeat;
+}
+
+#imagedl{
+	width: 1000px;
+	height: 500px;
+	margin-left: 400px;
+	margin-top: 00px;
+
+}
+
+#imgsdl{
+	width: 1000px;
+	height: 500px;
+	position: absolute;
+
+}
+#margherita{
+	background-color: black;
+
+	margin-left: 400px;
+	margin-top: 10px;
+	width: 500px;
+	height: 200px;
+	font-size: 20;
+	z-index:1;
+	float:left;
+	display :inline;
+}
+
+#margheritaimg{
+	height:100px;
+	width: 100px;
+	
+
+}
+h3{
+	color:yellow;
+	font-size: 20;
+	padding-left: 140px;
+	padding-top:00px;
+}
+p{
+	color:white;
+	font-size: 15;
+	margin-top: -50px;
+	margin-left: 140px;
+	
+}
+.fororder{
+	background-color: red;
+	color: white;
+	padding: 10px 70px;
+	border: 00px solid red; 
+	border-radius: 8px;
+	cursor: pointer;
+}
+#dmargherita{
+	background-color: black;
+
+	margin-left: 400px;
+	margin-top: 10px;
+	width: 500px;
+	height: 200px;
+	font-size: 20;
+	z-index:1;
+	float:left;
+	display :inline;
+}
+#cmargherita{
+	background-color: black;
+
+	margin-left: 910px;
+	margin-top: -1250px;
+	width: 500px;
+	height: 200px;
+	font-size: 20;
+	z-index:1;
+	float:left;
+	display :inline;
+}
+#abc{
+	background-color: black;
+
+	margin-left: 910px;
+	margin-top: -1040px;
+	width: 500px;
+	height: 200px;
+	font-size: 20;
+	z-index:1;
+	float:left;
+	display :inline;
+}
+#ab{
+	background-color: black;
+
+	margin-left: 910px;
+	margin-top: -830px;
+	width: 500px;
+	height: 200px;
+	font-size: 20;
+	z-index:1;
+	float:left;
+	display :inline;
+}
+#a{
+	background-color: black;
+
+	margin-left: 910px;
+	margin-top: -620px;
+	width: 500px;
+	height: 200px;
+	font-size: 20;
+	z-index:1;
+	float:left;
+	display :inline;
+}

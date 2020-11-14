@@ -1,0 +1,25 @@
+body{
+	
+	background-color: tomato;
+	height:550px;	
+
+}
+#continue{
+	
+	font-size: 20;
+	color: white;
+	margin-left:100px;
+	margin-top:100px;
+	
+}
+#continue {
+	border-radius: 8px;
+	background-color: black;
+	border:none;
+	color: white;
+	text-align: center;
+    font-size: 20px;
+  	cursor: pointer;
+	
+	padding: 8px 100px;
+}
